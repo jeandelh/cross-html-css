@@ -1,0 +1,33 @@
+.cross
+{
+
+    width: 8px;
+    height: 8px;
+    position: relative;
+
+}
+
+.lineCross1
+{
+   position: absolute;
+
+    width: 8px;
+
+    border:1px solid #38383a;
+
+    transform: rotate(45deg);
+}
+
+.lineCross2
+{
+
+    position: absolute;
+
+    width:8px;
+
+    border:1px solid #38383a;
+
+    transform: rotate(-45deg);
+}
+
+
